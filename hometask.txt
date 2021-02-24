@@ -1,1 +1,10 @@
-нет отличий hi, hi
+нет отличий
+8 com
+hi
+hi
+hi
+Merge branch 'boots_buttons'
+Merge remote-tracking branch 'origin/hat'
+hi
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/boots' into boots_buttons
